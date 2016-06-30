@@ -1,2 +1,2 @@
 # AppAutomatedTestingSample
-automated testing sample powerd by Appium
+automated testing sample 
